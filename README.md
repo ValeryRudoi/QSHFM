@@ -40,7 +40,7 @@ QCHFM/
 
 ## 🚀 Run the Simulation
 
-The repository includes a basic Python simulation for QCHFM in aviation:
+The repository includes a basic Python simulation for QCHFM in aviation Mars dron navigation with live time rerote:
 
 ```bash
 pip install numpy matplotlib
