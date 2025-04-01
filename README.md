@@ -11,6 +11,13 @@ But in the real world, data is messy, environments are uncertain, and extreme co
 QCHFM Doesn’t Just Predict — It Self-Evaluates
 QCHFM doesn’t say, “This is what will happen.”
 It says, “Here’s what will likely happen, and here’s how sure we are about that.”
+🔬 What Makes QCHFM Special
+
+- 🧠 **Hybrid design**: Combines Navier-Stokes physics, turbulence models, and stochastic uncertainty
+- 🧭 **Trust-aware**: Confidence maps show where predictions are reliable — and where they aren't
+- 📡 **Multi-domain**: Use it on Mars, in a fusion reactor, in an airplane, or inside blood vessels
+- ⚛️ **Quantum-inspired**: Adds randomness at small scales using stochastic differential equations (SDEs)
+- 🤖 **AI-ready**: Modular design supports AI augmentation and real-time applications
 
 That difference is critical when you're:
 - Flying passengers through unknown airspace
