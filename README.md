@@ -87,7 +87,7 @@ python docs/qchfm_air_simulation.py
 
 ## ✍️ Author
 
-Created by **Valery Rudoi**  
+Created by **Valery Rudoi** together with **AETHER**  
 2025 · Open to collaboration and academic partnerships
 
 QCHFM helps simulations do more than predict — it helps them know where to trust their own answers.
